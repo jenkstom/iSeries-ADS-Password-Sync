@@ -21,3 +21,5 @@ to match and reboots the computer.
 
 Admin users can change any user's passwords. It defaults to their own username, but that can
 be changed. The passwords are changed AND the accounts are unlocked, both in ADS and on the iSeries.
+
+This should work in any version of Visual Studio 2017, and maybe earlier versions.
